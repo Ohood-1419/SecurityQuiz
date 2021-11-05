@@ -17,7 +17,7 @@ let questions = [
   {
     id: 2,
     question: "What kind of trigger do phishing emails use to get you to respond quickly.? ",
-    answer: "Central Processing Unit",
+    answer: "emotional",
     options: [
       "emotional",
       "persuasive"
