@@ -20,7 +20,7 @@ let questions = [
     answer: "emotional",
     options: [
       "emotional",
-      "persuasive"
+      "Unemotional"
    
   
     ]  
